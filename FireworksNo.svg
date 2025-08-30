@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 123.931 123.576">
+  <g transform="matrix(1, 0, 0, 1, 123.813705, 32.91745)">
+    <path class="st0" d="M -14.631 90.84 C -6.431 90.84 0.169 84.24 0.169 76.14 L 0.169 -17.86 C 0.169 -26.06 -6.431 -32.66 -14.631 -32.66 L -108.63 -32.66 C -116.83 -32.76 -123.43 -26.16 -123.43 -17.96 L -123.43 76.04 C -123.43 84.24 -116.83 90.74 -108.73 90.74 C -108.63 90.84 -14.631 90.84 -14.631 90.84 Z" style="stroke-width: 1; fill: rgb(255, 0, 0);"/>
+    <path class="st1" d="M -106.1 -26.243 C -112.5 -26.243 -117.7 -21.143 -117.7 -14.743 L -117.7 72.957 C -117.7 79.257 -112.5 84.457 -106.2 84.457 L -17.196 84.457 C -10.796 84.457 -5.596 79.357 -5.596 72.957 L -5.596 -14.743 C -5.596 -21.043 -10.796 -26.243 -17.196 -26.243 C -17.296 -26.243 -106.1 -26.243 -106.1 -26.243 Z" style="fill: rgb(255, 255, 255); stroke-width: 1;"/>
+    <g transform="matrix(1, 0, 0, 1, -10.919776, -2.257732)">
+      <rect x="-56.409" y="3.761" width="10.962" height="40.923" fill="#000" style="stroke-width: 1;"/>
+      <path d="M -61.89 3.761 L -39.967 3.761 L -50.928 -16.701 L -61.89 3.761 Z" fill="#000" style="stroke-width: 1;"/>
+      <path d="M -50.928 44.684 L -50.928 60.03" fill="#000" style="stroke-width: 1; transform-box: fill-box; transform-origin: 50% 50%;" transform="matrix(1, 0, 0, 1, 0.000005, 0)"/>
+      <circle cx="-71.988" cy="-1.201" r="0.6" fill="#000" style="stroke-width: 1; transform-box: fill-box; transform-origin: 50% 50%;" transform="matrix(2.740092, 4.746652, -0.480498, 9.399586, 21.059558, 63.789179)"/>
+      <circle cx="-73.188" cy="-0.101" r="0.5" fill="#000" style="stroke-width: 1; transform-box: fill-box; transform-origin: 50% 50%;" transform="matrix(4.285324, -19.50246, 0.315703, 5.10568, 15.682641, 68.316164)"/>
+      <circle cx="-70.788" cy="-0.101" r="0.5" fill="#000" style="stroke-width: 1; transform-box: fill-box; transform-origin: 50% 50%;" transform="matrix(3.761867, 14.067075, -0.635674, 5.075781, 26.436457, 68.316157)"/>
+      <circle cx="-71.988" cy="0.699" r="0.5" fill="#000" style="stroke-width: 1; transform-box: fill-box; transform-origin: 50% 50%;" transform="matrix(4.34088, -3.345978, -7.230286, 12.031861, 4.073222, 66.755266)"/>
+      <circle cx="-75.988" cy="-2.701" r="0.7" fill="#000" style="stroke-width: 1; transform-box: fill-box; transform-origin: 50% 50%;" transform="matrix(5.362391, -1.132948, -6.907142, 6.687674, 3.136493, 57.616041)"/>
+      <circle cx="-67.988" cy="-2.701" r="0.7" fill="#000" style="stroke-width: 1; transform-box: fill-box; transform-origin: 50% 50%;" transform="matrix(5.384262, 1.023982, 10.994528, 7.298063, 38.98264, 57.616037)"/>
+      <circle cx="-71.988" cy="1.299" r="0.7" fill="#000" style="stroke-width: 1; transform-box: fill-box; transform-origin: 50% 50%;" transform="matrix(1.223106, 5.342547, -6.948409, -7.428394, 34.579312, 62.637976)"/>
+    </g>
+    <line class="st3" x1="-116.83" y1="-25.943" x2="-6.431" y2="84.757" style="fill: none; stroke: rgb(252, 3, 3); stroke-miterlimit: 10; stroke-width: 10;"/>
+    <title>Paragliding</title>
+    <title>Bottle Rocket</title>
+  </g>
+</svg>
