@@ -52,7 +52,7 @@ All icons are in **SVG format** and designed for consistency in size and style.
 | Symbol | Name | Symbol | Name |
 |--------|------|--------|------|
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/WildlifeClosure.svg" width="40"> | Wildlife Closure | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/SeasonalClosure.svg" width="40"> | Seasonal Closure |
-| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/BearAware.svg" width="40"> | Bear Aware | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Snake.svg" width="40"> | Snake Habitat |
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Bear.svg" width="40"> | Bear Aware | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Snake.svg" width="40"> | Snake Habitat |
 
 ---
 
@@ -60,9 +60,9 @@ All icons are in **SVG format** and designed for consistency in size and style.
 
 | Symbol | Name | Symbol | Name |
 |--------|------|--------|------|
-| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Restroom.svg" width="40"> | Restroom | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/FamilyRestroom.svg" width="40"> | Family Restroom |
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/RestroomYes.svg" width="40"> | Restroom | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/FamilyRestroom.svg" width="40"> | Family Restroom |
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/ElectricCarCharging.svg" width="40"> | Electric Car Charging | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/ElectricalHookup.svg" width="40"> | Electrical Hookup |
-| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/HandRail.svg" width="40"> | Hand Rail | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/WheelchairAccessible.svg" width="40"> | Wheelchair Accessible |
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/HandRail.svg" width="40"> | Hand Rail | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Wheelchair.svg" width="40"> | Wheelchair Accessible |
 
 ---
 
@@ -78,6 +78,6 @@ All icons are in **SVG format** and designed for consistency in size and style.
 
 | Symbol | Name | Symbol | Name |
 |--------|------|--------|------|
-| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/HabitatConservationArea.svg" width="40"> | Habitat Conservation Area | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/ResearchArea.svg" width="40"> | Research Area |
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/HCA1.svg" width="40"> | Habitat Conservation Area | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/HCA2.svg" width="40"> | Habitat Conservation Area 2 |
 
 ---
