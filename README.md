@@ -66,7 +66,26 @@
 <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/PartialVS2.svg" alt="PartialVS2.svg" title="PartialVS2.svg"  width="30" height="30"> 
 <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Pass.svg" alt="Pass.svg" title="Pass.svg"  width="30" height="30"> 
 <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/PicnicShelter.svg" alt="PicnicShelter.svg" title="PicnicShelter.svg"  width="30" height="30"> 
+<img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/PicnicYes.svg" alt="PicnicYes.svg" title="PicnicYes.svg"  width="30" height="30"> 
+<img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Point.svg" alt="Point.svg" title="Point.svg"  width="30" height="30"> 
+<img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/RangerBadge.svg" alt="RangerBadge.svg" title="RangerBadge.svg"  width="30" height="30"> 
+<img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/RangerCottege.svg" alt="RangerCottege.svg" title="RangerCottege.svg"  width="30" height="30"> 
+<img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/RangerHat.svg" alt="RangerHat.svg" title="RangerHat.svg"  width="30" height="30"> 
+<img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/RecyclingYes.svg" alt="RecyclingYes.svg" title="RecyclingYes.svg"  width="30" height="30"> 
+<img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/RestroomYes.svg" alt="RestroomYes.svg" title="RestroomYes.svg"  width="30" height="30"> 
+<img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/RockClimbingYes.svg" alt="RockClimbingYes.svg" title="RockClimbingYes.svg"  width="30" height="30"> 
+<img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Shelter.svg" alt="Shelter.svg" title="Shelter.svg"  width="30" height="30"> 
+<img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Shuttle.svg" alt="Shuttle.svg" title="Shuttle.svg"  width="30" height="30"> 
+<img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Sledding.svg" alt="Sledding.svg" title="Sledding.svg"  width="30" height="30"> 
+<img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/SlipperyRamp.svg" alt="SlipperyRamp.svg" title="SlipperyRamp.svg"  width="30" height="30"> 
+<img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/SlipperyStairs.svg" alt="SlipperyStairs.svg" title="SlipperyStairs.svg"  width="30" height="30"> 
 <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/" alt="" title=""  width="30" height="30"> 
 <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/" alt="" title=""  width="30" height="30"> 
- 
+<img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/" alt="" title=""  width="30" height="30"> 
+<img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/" alt="" title=""  width="30" height="30"> 
+<img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/" alt="" title=""  width="30" height="30"> 
+<img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/" alt="" title=""  width="30" height="30"> 
+<img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/" alt="" title=""  width="30" height="30"> 
+<img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/" alt="" title=""  width="30" height="30"> 
+<img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/" alt="" title=""  width="30" height="30"> 
 </p>
