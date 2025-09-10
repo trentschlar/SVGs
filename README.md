@@ -33,6 +33,7 @@ All icons are in **SVG format** and designed for consistency in size and style.
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/HandLaunchYes.svg" width="40"> | Hand Launch Allowed | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/HandLaunchNo.svg" width="40"> | Hand Launch Not Allowed |
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Swimming.svg" width="40"> | Swimming | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/SwimmingNo.svg" width="40"> | Swimming Not Allowed |
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Wading.svg" width="40"> | Wading | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/WaddingNo.svg" width="40"> | Wading Not Allowed |
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Wadding2.svg" width="40"> | Wading | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/WaddingNo2.svg" width="40"> | Wading Not Allowed |
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Diving.svg" width="40"> | Diving | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/DivingNo.svg" width="40"> | Diving Not Allowed |
 
 ---
