@@ -42,9 +42,11 @@ All icons are in **SVG format** and designed for consistency in size and style.
 
 | Symbol | Name | Symbol | Name |
 |--------|------|--------|------|
-| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/DogOnLeash.svg" width="40"> | Leash Required | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/DogNo.svg" width="40"> | No Dogs |
-| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/DogYes.svg" width="40"> | Dogs Allowed | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/DogPoop.svg" width="40"> | Pick Up After Dogs |
-| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/VoiceAndSight.svg" width="40"> | Voice and Sight | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/DogLeashArea.svg" width="40"> | Leash Area |
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/DogYes.svg" width="40"> | Dogs Allowed | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/DogNo.svg" width="40"> | No Dogs |
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/VS.svg" width="40"> | Voice and Sight | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/VSNo.svg" width="40"> | No Voice and Sight |
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/VSC.svg" width="40"> | Voice and Sight on Corridor | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/VSCNo.svg" width="40"> | No Voice and Sight on Corridor |
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/VSMF.svg" width="40"> | Voice and Sight Mon - Fri | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/VSMFNo.svg" width="40"> | No Voice and Sight Mon - Fri |
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/VSSeasonal.svg" width="40"> | Voice and Sight Seasonal | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/PartialVS2.svg" width="40"> | Voice and Sight on Part of the Trail |
 
 ---
 
