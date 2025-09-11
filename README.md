@@ -117,6 +117,7 @@ All icons are in **SVG format** and most are designed for consistency in size an
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/ParkingYes.svg" width="40"> | Parking |   <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/ParkingNo.svg" width="40"> | No Parking |
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/CameraYes.svg" width="40"> | Camera Allowed | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/CameraNo.svg" width="40"> | Camera Not Allowed | 
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/WebCamYes.svg" width="40"> | Web Cam Allowed | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/WebCamNo.svg" width="40"> | Web Cam Not Allowed |
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/ParkingPermit.svg" width="40"> | Parking Permit | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/FeeParking.svg" width="40"> | Fee Parking |
 
 ---
 
