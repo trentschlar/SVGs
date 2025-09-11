@@ -102,6 +102,7 @@ All icons are in **SVG format** and most are designed for consistency in size an
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/FishingPier.svg" width="40"> | Fishing Pier | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/FishLadder.svg" width="40"> | Fish Ladder |
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Ampitheater.svg" width="40"> | Amphitheater | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Kiosk.svg" width="40"> | Kiosk |
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Bench.svg" width="40"> | Bench | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/InterpretiveSign.svg" width="40"> | Interpretive Sign |
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Tunel.svg" width="40"> | Tunel | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Sign.svg" width="40"> | Sign |
 
 ---
 
@@ -133,7 +134,15 @@ All icons are in **SVG format** and most are designed for consistency in size an
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/FirewoodCutting.svg" width="40"> | Firewood Cutting | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/WoodGathering.svg" width="40"> | Wood Gathering |
 
 ---
+## HETAP
 
+| Symbol | Name | Symbol | Name |
+|--------|------|--------|------|
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/TrailGrade.svg" width="40"> | Trail Grade | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/TrailGrade2.svg" width="40"> | Trail Grade 2 |
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/TrailCrossSlope.svg" width="40"> | Trail Cross Slope | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/TrailWidth.svg" width="40"> | Trail Width |
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Surface.svg" width="40"> | Trail Surface |  |  |
+
+---
 ## Conservation Areas
 
 | Symbol | Name | Symbol | Name |
@@ -188,7 +197,8 @@ All icons are in **SVG format** and most are designed for consistency in size an
 
 | Symbol | Name | Symbol | Name |
 |--------|------|--------|------|
-| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/BabyYes.svg" width="40"> | Baby Allowed | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/BabyNo.svg" width="40"> | Baby Not Allowed |
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/BabyYes.svg" width="40"> | Baby Friendly | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/BabyNo.svg" width="40"> | Not Baby Friendly |
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Stroller.svg" width="40"> | Stroller |  |  |
 
 ---
 
