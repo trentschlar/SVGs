@@ -55,6 +55,7 @@ All icons are in **SVG format** and most are designed for consistency in size an
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/VSMF.svg" width="40"> | Voice and Sight Mon - Fri | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/VSMFNo.svg" width="40"> | No Voice and Sight Mon - Fri |
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/VSSeasonal.svg" width="40"> | Voice and Sight Seasonal | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/VSSeasonalBlack.svg" width="40"> | Voice and Sight Seasonal Black |
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/PartialVS.svg" width="40"> | Partial Voice and Sight | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/PartialVS2.svg" width="40"> | Voice and Sight on Part of the Trail |
+|<img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/LeashBridge.svg" width="40"> | Leash Bridge | | |
 
 ---
 
@@ -97,7 +98,7 @@ All icons are in **SVG format** and most are designed for consistency in size an
 |--------|------|--------|------|
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/VisitorCenter.svg" width="40"> | Visitor Center | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/VisitorInformation.svg" width="40"> | Visitor Information |
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Cabin.svg" width="40"> | Cabin | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/RangerCottege.svg" width="40"> | Ranger Cottage |
-| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Bridge.svg" width="40"> | Bridge | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/LeashBridge.svg" width="40"> | Leash Bridge |
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Bridge.svg" width="40"> | Bridge | | |
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/PicnicShelter.svg" width="40"> | Picnic Shelter | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Shelter.svg" width="40"> | Shelter |
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/FishingPier.svg" width="40"> | Fishing Pier | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/FishLadder.svg" width="40"> | Fish Ladder |
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Ampitheater.svg" width="40"> | Amphitheater | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Kiosk.svg" width="40"> | Kiosk |
