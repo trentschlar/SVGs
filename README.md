@@ -9,6 +9,8 @@ All icons are in **SVG format** and most are designed for consistency in size an
 
 | Symbol | Name | Symbol | Name |
 |--------|------|--------|------|
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Hiking.svg" width="40"> | Hiking Allowed | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/HikingNo.svg" width="40"> | Hiking Not Allowed |
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/HikingYes2.svg" width="40"> | Hiking Allowed 2 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/HikingNo2.svg" width="40"> | Hiking Not Allowed 2 |
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/ATVYes.svg" width="40"> | ATV Allowed | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/ATVNo.svg" width="40"> | ATV Not Allowed |
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/BicycleYes.svg" width="40"> | Bicycle Allowed | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/BicycleNo.svg" width="40"> | Bicycle Not Allowed |
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/EBikeYes.svg" width="40"> | E-Bike Allowed | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/EBikeNo.svg" width="40"> | E-Bike Not Allowed |
@@ -18,8 +20,8 @@ All icons are in **SVG format** and most are designed for consistency in size an
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/RockClimbingYes.svg" width="40"> | Rock Climbing Allowed | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/RockClimbingNo.svg" width="40"> | Rock Climbing Not Allowed |
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/CavingYes.svg" width="40"> | Caving Allowed | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/CavingNo.svg" width="40"> | Caving Not Allowed |
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Golf.svg" width="40"> | Golf | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/GolfNo.svg" width="40"> | Golf Not Allowed |
-| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/ConstructionYes.svg" width="40"> | Construction Allowed | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/ConstructionNo.svg" width="40"> | Construction Not Allowed |
-| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/FirewoodCutting.svg" width="40"> | Firewood Cutting | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/WoodGathering.svg" width="40"> | Wood Gathering |
+
+
 
 ---
 
@@ -37,6 +39,8 @@ All icons are in **SVG format** and most are designed for consistency in size an
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Wading.svg" width="40"> | Wading | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/WaddingNo.svg" width="40"> | Wading Not Allowed |
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Wadding2.svg" width="40"> | Wading Alt | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/WaddingNo2.svg" width="40"> | Wading Not Allowed Alt |
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Diving.svg" width="40"> | Diving | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/DivingNo.svg" width="40"> | Diving Not Allowed |
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/LifegaurdYes.svg" width="40"> | Lifeguard on Duty | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/LifegaurdNo.svg" width="40"> | No Lifeguard on Duty |
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/WindsurfingYes.svg" width="40"> | Windsurfing Allowed | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/WindsurfingNo.svg" width="40"> | Windsurfing Not Allowed |
 
 ---
 
@@ -72,6 +76,7 @@ All icons are in **SVG format** and most are designed for consistency in size an
 | Symbol | Name | Symbol | Name |
 |--------|------|--------|------|
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/RestroomYes.svg" width="40"> | Restroom Available | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/RestroomNo.svg" width="40"> | Restroom Not Available |
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/RestroomYes2.svg" width="40"> | Restroom Available 2 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/RestroomNo2.svg" width="40"> | Restroom Not Available 2 |
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/FamilyRestroom.svg" width="40"> | Family Restroom | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/ToiletYes.svg" width="40"> | Toilet Available |
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/ToiletNo.svg" width="40"> | Toilet Not Available | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/ElectricCarCharging.svg" width="40"> | Electric Car Charging |
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/ElectricalHookup.svg" width="40"> | Electrical Hookup | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/HandRail.svg" width="40"> | Hand Rail |
@@ -109,6 +114,8 @@ All icons are in **SVG format** and most are designed for consistency in size an
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/TrailerMaybe.svg" width="40"> | Trailer Maybe |  ||
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Shuttle.svg" width="40"> | Shuttle |   <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Bus.svg" width="40"> | Bus |
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/ParkingYes.svg" width="40"> | Parking |   <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/ParkingNo.svg" width="40"> | No Parking |
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/CameraYes.svg" width="40"> | Camera Allowed | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/CameraNo.svg" width="40"> | Camera Not Allowed | 
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/WebCamYes.svg" width="40"> | Web Cam Allowed | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/WebCamNo.svg" width="40"> | Web Cam Not Allowed |
 
 ---
 
@@ -122,9 +129,8 @@ All icons are in **SVG format** and most are designed for consistency in size an
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Alcohol.svg" width="40"> | Alcohol Allowed | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/AlcoholNo.svg" width="40"> | Alcohol Not Allowed |
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/SmokingYes.svg" width="40"> | Smoking Allowed | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/SmokingNo.svg" width="40"> | Smoking Not Allowed |
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/FireNo.svg" width="40"> | Fire Not Allowed | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/FireworksNo.svg" width="40"> | Fireworks Not Allowed |
-| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/FireworksNo2.svg" width="40"> | Fireworks Not Allowed Alt | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/CameraYes.svg" width="40"> | Camera Allowed |
-| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/CameraNo.svg" width="40"> | Camera Not Allowed | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/WebCamYes.svg" width="40"> | Web Cam Allowed |
-| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/WebCamNo.svg" width="40"> | Web Cam Not Allowed |  |  |
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/FireworksNo2.svg" width="40"> | Fireworks Not Allowed Alt  |  |
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/FirewoodCutting.svg" width="40"> | Firewood Cutting | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/WoodGathering.svg" width="40"> | Wood Gathering |
 
 ---
 
@@ -144,6 +150,7 @@ All icons are in **SVG format** and most are designed for consistency in size an
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Caution.svg" width="40"> | Caution | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/FallingRocks.svg" width="40"> | Falling Rocks |
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/SlipperyRamp.svg" width="40"> | Slippery Ramp | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/SlipperyStairs.svg" width="40"> | Slippery Stairs |
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/StayBack.svg" width="40"> | Stay Back | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/LifeJacket.svg" width="40"> | Life Jacket |
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/ConstructionYes.svg" width="40"> | Construction Allowed | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/ConstructionNo.svg" width="40"> | Construction Not Allowed |
 
 ---
 
