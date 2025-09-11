@@ -106,8 +106,9 @@ All icons are in **SVG format** and most are designed for consistency in size an
 |--------|------|--------|------|
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Vehicle.svg" width="40"> | Vehicle Allowed | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/VehicleNo.svg" width="40"> | Vehicle Not Allowed |
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/TrailerYes.svg" width="40"> | Trailer Allowed | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/NoTrailer.svg" width="40"> | Trailer Not Allowed |
-| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/TrailerMaybe.svg" width="40"> | Trailer Maybe | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Bus.svg" width="40"> | Bus |
-| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Shuttle.svg" width="40"> | Shuttle |  |  |
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/TrailerMaybe.svg" width="40"> | Trailer Maybe |  ||
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Shuttle.svg" width="40"> | Shuttle |   <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Bus.svg" width="40"> | Bus |
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/ParkingYes.svg" width="40"> | Parking |   <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/ParkingNo.svg" width="40"> | No Parking |
 
 ---
 
@@ -132,6 +133,7 @@ All icons are in **SVG format** and most are designed for consistency in size an
 | Symbol | Name | Symbol | Name |
 |--------|------|--------|------|
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/HCA1.svg" width="40"> | Habitat Conservation Area | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/HCA2.svg" width="40"> | Habitat Conservation Area 2 |
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/HCA3.svg" width="40"> | Habitat Conservation Area 3 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/HCA4.svg" width="40"> | Habitat Conservation Area 4 |
 
 ---
 
@@ -199,6 +201,7 @@ All icons are in **SVG format** and most are designed for consistency in size an
 | Symbol | Name | Symbol | Name |
 |--------|------|--------|------|
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/CellularYes.svg" width="40"> | Cellular Available | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/CellularNo.svg" width="40"> | Cellular Not Available |
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/WifiYes.svg" width="40"> | Wifi Available | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/WifiNo.svg" width="40"> | Wifi Not Available |
 
 ---
 
@@ -208,7 +211,7 @@ All icons are in **SVG format** and most are designed for consistency in size an
 |--------|------|--------|------|
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/View.svg" width="40"> | View | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Viewing.svg" width="40"> | Viewing |
 | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Viewpoint.svg" width="40"> | Viewpoint | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Waterfall.svg" width="40"> | Waterfall |
-| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Sun.svg" width="40"> | Sun |  |  |
+| <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Sun.svg" width="40"> | Sun | <img src="https://raw.githubusercontent.com/trentschlar/SVGs/refs/heads/main/Stargazing.svg" width="40"> | Star Gazing |
 
 ---
 
